@@ -1,4 +1,4 @@
-package LinkedList;
+package linkedlist;
 
 public class Q2_3DeleteMidNode {
 public static boolean deleteNode(LinkedListNode n){

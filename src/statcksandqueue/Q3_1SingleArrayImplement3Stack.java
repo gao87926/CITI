@@ -1,4 +1,4 @@
-package StacksAndQueue;
+package statcksandqueue;
 
 public class Q3_1SingleArrayImplement3Stack {
 
